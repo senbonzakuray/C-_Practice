@@ -1,8 +1,0 @@
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\obj\Debug\02ConvertCentry.csproj.AssemblyReference.cache
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\obj\Debug\02ConvertCentry.csproj.SuggestedBindingRedirects.cache
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\obj\Debug\02ConvertCentry.csproj.CoreCompileInputs.cache
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\bin\Debug\02ConvertCentry.exe.config
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\bin\Debug\02ConvertCentry.exe
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\bin\Debug\02ConvertCentry.pdb
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\obj\Debug\02ConvertCentry.exe
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02ConvertCentry\02ConvertCentry\obj\Debug\02ConvertCentry.pdb
