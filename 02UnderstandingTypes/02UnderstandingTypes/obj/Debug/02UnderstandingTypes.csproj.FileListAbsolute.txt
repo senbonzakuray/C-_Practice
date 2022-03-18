@@ -1,8 +1,0 @@
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\02UnderstandingTypes.exe.config
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\02UnderstandingTypes.exe
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\02UnderstandingTypes.pdb
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.csproj.AssemblyReference.cache
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.csproj.SuggestedBindingRedirects.cache
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.csproj.CoreCompileInputs.cache
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.exe
-C:\Users\Seann\Desktop\Subject\C#Fundamental\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\02UnderstandingTypes.pdb
