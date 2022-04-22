@@ -1,0 +1,84 @@
+1.
+What type would you choose for the following “numbers”? 
+A person’s telephone number
+string
+A person’s height
+string
+A person’s age
+int
+A person’s gender (Male, Female, Prefer Not To Answer)
+enum
+A person’s salary 
+decimal
+A book’s ISBN
+string
+A book’s price 
+decimal
+A book’s shipping weight 
+double
+A country’s population
+uint 
+The number of stars in the universe 
+ulong
+The number of employees in each of the small or medium businesses in the 
+United Kingdom (up to about 50,000 employees per business) 
+ushort
+2.
+What are the difference between value type and reference type variables? 
+Value type:
+Directly contain their data;
+Each has its own copy of data;
+Operation on one cannot affect another.
+Reference type:
+Store references to their data (Known as objects);
+Two reference variables can reference the same object;
+Operation on one can effect another.
+What is boxing and unboxing?
+Boxing is the process of converting a value type to the type object or to any interface type implemented by this value type.
+Unboxing is an explicit conversion from the type object to a value type or from an interface type to a value type that implements the interface.
+
+3.
+What is meant by the terms managed resource and unmanaged resource in .NET
+Unmanaged resource is used to describe something not directly under the control of the garbage collector.
+Managed resources are those that are pure .NET code and managed by the runtime and are under its direct control.
+4.
+What’s the purpose of Garbage Collector in .NET? 
+The garbage collector manages the allocation and release of memory for an application.
+
+Controlling Flow and Converting Types 
+Test your Knowledge
+1.	What happens when you divide an int variable by 0?
+Undefined 
+2.	What happens when you divide a double variable by 0? 
+Infinity
+3.	What happens when you overflow an int variable, that is, set it to a value beyond its range? 
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS1021	Integral constant is too large	Practice000	C:\Users\Seann\Desktop\Subject\C#Fundamental\Practice000\Practice000\Program.cs	13	Active
+
+4.	What is the difference between x = y++; and x = ++y;? 
+X++ executes the statement and then increments the value.
+++X increments the value and then executes the statement.
+5.	What is the difference between break, continue, and return when used inside a loop statement? 
+Break statement breaks the loop/switch whereas continue skip the execution of current iteration only and it does not break the lop/switch. i.e. it passes the control to the next iteration of the enclosing while loop, do while loop, for loop of for each statement in which it appears.
+6.	What are the three parts of a for statement and which of them are required? 
+Initialization, Condition, and the advancement to the next iteration.
+None is required.
+  
+7.	What is the difference between the = and == operators? 
+== operator is the comparison operator. = operator is used to assign value.
+8.	Does the following statement compile? for ( ; true; ) ; 
+Yes.
+9.	What does the underscore _ represent in a switch expression? 
+It replaces the default keyword to signify that it should match anything if reached.
+10.	What interface must an object implement to be enumerated over by using the foreach statement? 
+The IEnumerable interface
+
+
+What will happen if this code executes? 
+Create a console application  and enter the preceding code. Run the console application and view the output. What happens? 
+The output runs itself infinitely. Because the i is byte type, the max exceeds the maximum value of byte type. 
+What code could you add (don’t change any of the preceding code) to warn us about the problem? 
+Assign max and i the same data type.
+
+
+
